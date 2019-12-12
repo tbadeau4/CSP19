@@ -3,3 +3,4 @@ def github_tester():
     sentence = "I like scratch and sniff stickers."
     print(sentence [7:24])
 
+github_tester()
