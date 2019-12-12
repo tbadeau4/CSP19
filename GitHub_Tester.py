@@ -1,7 +1,7 @@
 def github_tester():
     #This function should print "Scratch and sniff, but it does not, please help me fix it!!
     sentence = "I like scratch and sniff stickers."
-    print(sentence [8:24])
+    sentence = "I like Scratch and sniff stickers."
 
 
     
